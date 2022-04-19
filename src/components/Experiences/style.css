@@ -1,0 +1,24 @@
+.experiences {
+    flex-grow: 1;
+  }
+  
+  .experiences h1 {
+    margin-bottom: 20px;
+  }
+.experiences a {
+  text-decoration: none;
+  color: #0000FF;
+}
+  .experiences p {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 100%;
+  }
+
+  .experiences .titre {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 40px;
+  }
+  
+  
